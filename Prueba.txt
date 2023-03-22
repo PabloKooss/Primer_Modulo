@@ -1,0 +1,6 @@
+Esta es mi prueba de archivo
+
+	git clone http://url.com
+
+		//Para clonar un repositorio desde url
+	 
