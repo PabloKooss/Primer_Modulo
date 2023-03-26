@@ -18,7 +18,7 @@ Algoritmo: Promedio de tres numeros
     5. mostrar en pantalla: El promedio es +"prom" 
 Fin_del_algoritmo
 ```
-##Prueba de escritorio
+## Prueba de escritorio
 Numero 1 = 32
 Numero 2 = 40
 Numero 3 = 15
