@@ -27,3 +27,12 @@ Realiza las siguientes operaciones:
 |$10-2 > 9 \lor 5(4) == 21 $|10-2 > 9 \|\| 5*4 == 21| Falso
 |$\neg (6(3) \neq 18 ) $|! (6*3 != 18)|Verdadero
 |$7+2 == 9 \lor 21 - 11 \neq 10$|7+2 == 9 \|\| 21-11 != 10 | Verdadero
+
+
+## Realiza los siguientes algoritmos
+1. Verificar si un número es positivo y par.
+1. Verificar si un número es negativo o impar.
+1. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
+1. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
+1. Verificar si una persona es mayor de edad y tiene licencia de conducir.
+1. Verificar si un número es mayor que 10 y menor que 20.
