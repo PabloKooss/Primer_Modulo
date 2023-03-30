@@ -31,6 +31,11 @@ Realiza las siguientes operaciones:
 
 ## Realiza los siguientes algoritmos
 1. Verificar si un número es positivo y par.
+	-Leer numero.
+	-Comparar si es mayor que cero.
+	-Dividir entre 2.
+	-Verificar si Residuo es cero.
+	-Mostrar en pantalla  
 1. Verificar si un número es negativo o impar.
 1. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
 1. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
