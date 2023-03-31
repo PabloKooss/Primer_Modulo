@@ -45,7 +45,7 @@ Restricciones: Solo numeros
 		3.1. Mostrar en pantalla(numero,"No es positivo, ni par")
 Fin_del_algoritmo
 ```
-1. Verificar si un número es negativo o impar.
+2. Verificar si un número es negativo o impar.
 
 ```psc
 Algoritmo: Verificar si un número es negativo o impar.
