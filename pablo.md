@@ -64,7 +64,7 @@ Restricciones: Solo numeros
 		5.1. Mostrar en pantalla(numero,"No es negativo, ni impar")
 Fin_del_algoritmo
 ```
-1. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
+3. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
 
 ```psc
 Algoritmo: Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
@@ -80,7 +80,7 @@ Restricciones: NA
 		3.1. Mostrar en pantalla(numero,"No es positivo y par")
 Fin_del_algoritmo
 ```
-1. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
-1. Verificar si una persona es mayor de edad y tiene licencia de conducir.
-1. Verificar si un número es mayor que 10 y menor que 20.
+4. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
+5. Verificar si una persona es mayor de edad y tiene licencia de conducir.
+6. Verificar si un número es mayor que 10 y menor que 20.
 
