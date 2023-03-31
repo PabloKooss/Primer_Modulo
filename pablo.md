@@ -42,7 +42,7 @@ Restricciones: Solo numeros
     2. Si numero > 0 && (numero%2)==0
     	2.1. Mostrar en pantalla(numero,"Es positivo y par")
     3.Si no
-		3.1. Mostrar en pantalla(numero,"No es positivo y par")
+		3.1. Mostrar en pantalla(numero,"No es positivo, ni par")
 Fin_del_algoritmo
 ```
 1. Verificar si un número es negativo o impar.
@@ -73,7 +73,7 @@ Salida: True or false.
 Restricciones: NA
     
     1. Leer cadena.
-	
+
     2. Si numero > 0 && (numero%2)==0
     	2.1. Mostrar en pantalla(numero,"Es positivo y par")
     3.Si no
