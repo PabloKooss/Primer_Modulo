@@ -31,11 +31,7 @@ Realiza las siguientes operaciones:
 
 ## Realiza los siguientes algoritmos
 1. Verificar si un número es positivo y par.
-	-Leer numero.
-	-Comparar si es mayor que cero.
-	-Dividir entre 2.
-	-Verificar si Residuo es cero.
-	-Mostrar en pantalla  
+	
 ```psc
 Algoritmo: Promedio de tres numeros
     Entrada: tres numeros, (n1, n2 y n3)
