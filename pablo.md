@@ -34,12 +34,12 @@ Realiza las siguientes operaciones:
 	
 ```psc
 Algoritmo: Verificar si un número es positivo y par.
-Entrada: un numero.
+Entrada: Un numero.
 Salida: Es positivo y par o No es positivo y par.
 Restricciones: Solo numeros
     
     1. Leer numero.
-    2. Si numero > 0 && (numero%2)==0
+    2. Si numero > 0 && (numero%2) == 0
     	2.1. Mostrar en pantalla(numero,"Es positivo y par")
     3.Si no
 		3.1. Mostrar en pantalla(numero,"No es positivo, ni par")
@@ -49,7 +49,7 @@ Fin_del_algoritmo
 
 ```psc
 Algoritmo: Verificar si un número es negativo o impar.
-Entrada: un numero.
+Entrada: Un numero.
 Salida: Es negativo o impar o No es negativo o impar.
 Restricciones: Solo numeros
     
@@ -74,13 +74,51 @@ Restricciones: NA
     
     1. Leer cadena.
 
-    2. Si numero > 0 && (numero%2)==0
-    	2.1. Mostrar en pantalla(numero,"Es positivo y par")
-    3.Si no
-		3.1. Mostrar en pantalla(numero,"No es positivo y par")
 Fin_del_algoritmo
 ```
 4. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
+
+```psc
+Algoritmo: Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
+Entrada: Dos numeros.
+Salida: Ambos numeros son divisibles entre 3 y 5.
+Restricciones: Solo numeros.
+    
+    1. Leer ambos numeros.
+    2. Si (numero%3) == 0 && (numero%5) == 0
+    	2.1. Mostrar en pantalla(numero,"Es divisible entre 3 y 5")
+    3.Si no
+		3.1. Mostrar en pantalla(numero,"No es divisible entre 3 y 5")
+Fin_del_algoritmo
+```
 5. Verificar si una persona es mayor de edad y tiene licencia de conducir.
+
+```psc
+Algoritmo: Verificar si una persona es mayor de edad y tiene licencia de conducir.
+Entrada: Un numero y un booleano.
+Salida: True or false.
+Restricciones: Solo numeros y si o no.
+    
+    1. Leer numero.
+	2. Leer booleano.
+    2. Si numero >= mayoria_edad && booleano == true
+    	2.1. Mostrar en pantalla(numero,"Es adulto y permiso de conducir)
+    3.Si no
+		3.1. Mostrar en pantalla(numero,"No es mayor de edad o con permiso para conducir")
+Fin_del_algoritmo
+```
 6. Verificar si un número es mayor que 10 y menor que 20.
 
+```psc
+Algoritmo: Verificar si un número es mayor que 10 y menor que 20.
+Entrada: Un numero.
+Salida: True and false.
+Restricciones: Solo numeros.
+    
+    1. Leer numero.
+    2. Si numero >= 10 && numero <= 20
+    	2.1. Mostrar en pantalla(numero,"Es mayor que 10 y menor que 20")
+    3.Si no
+		3.1. Mostrar en pantalla(numero,"No es mayor que 10 y menor que 20")
+Fin_del_algoritmo
+```
