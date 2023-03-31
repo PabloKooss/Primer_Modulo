@@ -33,10 +33,10 @@ Realiza las siguientes operaciones:
 1. Verificar si un número es positivo y par.
 	
 ```psc
-Algoritmo: Promedio de tres numeros
-    Entrada: tres numeros, (n1, n2 y n3)
-    Salida: (n1+n2+n3)/3
-    Restricciones: Solo numeros
+Algoritmo: Verificar si un número es positivo y par.
+Entrada: un numero.
+Salida: Es positivo y par o No es positivo y par.
+Restricciones: Solo numeros
     
     1. Leer numero.
     2. Si numero > 0 && (numero%2)==0
