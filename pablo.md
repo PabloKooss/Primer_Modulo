@@ -46,6 +46,20 @@ Restricciones: Solo numeros
 Fin_del_algoritmo
 ```
 1. Verificar si un número es negativo o impar.
+
+```psc
+Algoritmo: Verificar si un número es positivo y par.
+Entrada: un numero.
+Salida: Es positivo y par o No es positivo y par.
+Restricciones: Solo numeros
+    
+    1. Leer numero.
+    2. Si numero > 0 && (numero%2)==0
+    	2.1. Mostrar en pantalla(numero,"Es positivo y par")
+    3.Si no
+		3.1. Mostrar en pantalla(numero,"No es positivo y par")
+Fin_del_algoritmo
+```
 1. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
 1. Verificar si un número es divisible entre 3 y 5 al mismo tiempo.
 1. Verificar si una persona es mayor de edad y tiene licencia de conducir.
