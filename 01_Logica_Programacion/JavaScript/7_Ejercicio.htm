@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <header><title>Calculo Salario</title></header>
+    <body>
+        <script>
+            Horas=prompt("Ingresa las horas trabajadas:");
+            Precio_Hora=prompt("Ingresa el precio por hora trabajada:");
+            if (Horas>=0&&Horas<=40) {
+                Pago=(Horas*Precio_Hora);
+                alert("El pago por semana ingreada es "+Pago)
+            } else if (Horas>40) {
+                alert("En proceso...")
+            } 
+            </script>
+    </body>
+</html>
